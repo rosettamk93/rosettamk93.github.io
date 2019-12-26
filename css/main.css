@@ -4,11 +4,8 @@
   margin: 0; padding: 0;
 }
 html, body{margin: 0; padding :0;
-
-}
-section{
-  background-image: url(../img/background.jpg);
-}
+background-image: url(../img/background.jpg);
+}  
 /*=====*/
 
 /*기본 문구 관련*/
